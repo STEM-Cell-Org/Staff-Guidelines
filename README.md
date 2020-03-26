@@ -1,8 +1,23 @@
 # THS-Staff-Guidelines
 
-### Permissions and Guidelines for Overseers
+### Permissions
+| Power | Overseer | Admin | Mod |
+|-----------------|----------|-------|-----|
+| View Audit Log  | Yes      | Yes   | Yes |
+| Manage Server   | Yes      | No    | No  |
+| Manage Roles    | Yes      | Yes   | No  |
+| Manage Channels | Yes      | No    | No  |
+| Manage Messages | Yes      | Yes   | No  |
+| Manage Emojis   | Yes      | Yes   | Yes |
+| Manage Webhooks | Yes      | No    | No  |
+| Kick Members    | No       | Yes   | No  |
+| Ban Members     | No       | Yes   | No  |
 
-### Permissions and Guidelines for Admins
-- Admins allowed to delete messages in chats that violate the rules | Finalized by Enus on 3/24/2020 at 11:04PM EST
+### Guidelines
 
-### Permissions and Guidelines for Moderators
+#### Overseer
+
+#### Admin
+- Admins allowed to delete messages in chats that violate the rules.
+
+#### Moderator
