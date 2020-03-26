@@ -16,8 +16,10 @@
 ### Guidelines
 
 #### Overseer
+- 
 
 #### Admin
 - Admins allowed to delete messages in chats that violate the rules.
 
 #### Moderator
+- 
